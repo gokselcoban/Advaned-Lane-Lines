@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [image5]: ./report/result.jpg "Output"
 [image6]: ./report/sliding_window.jpg "Fit Visual"
 [image7]: ./report/after_sliding.jpg "Recent Fitted"
-[image8]: ./report/debug.jpg "Output"
+[image8]: ./report/debug.jpg "Output with debug"
 
 [video1]: ./report/project_video_output.mp4 "Video"
 
